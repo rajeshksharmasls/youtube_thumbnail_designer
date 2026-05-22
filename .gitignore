@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Generated outputs
+# outputs/
+
+# Editor / IDE temp files
+*.dtmp
+.$*
+.DS_Store
+.vscode/
+.idea/
